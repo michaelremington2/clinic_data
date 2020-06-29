@@ -1,0 +1,19 @@
+name: clinic_space
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2020.1.1=0
+  - certifi=2020.4.5.1=py38_0
+  - pip=20.0.2=py38_3
+  - setuptools=47.1.1=py38_0
+  - wheel=0.34.2=py38_0
+  - pip:
+    - cycler==0.10.0
+    - kiwisolver==1.2.0
+    - matplotlib==3.2.1
+    - numpy==1.18.5
+    - pyparsing==2.4.7
+    - python-dateutil==2.8.1
+prefix: C:\Users\micha\anaconda3\envs\clinic_space
+
+
